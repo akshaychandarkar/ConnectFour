@@ -1,6 +1,6 @@
 # Connect Four Game - JavaFX
 
-![Connect Four Logo](link/to/your/logo.png)
+
 
 ## Overview
 
@@ -21,3 +21,9 @@ This project presents a Connect Four game application developed in Java, leverag
 - **Java:** The programming language driving the game's logic.
 - **JavaFX:** A versatile library employed for building the graphical user interface.
 - **FXML:** An XML-based markup language utilized to define the user interface.
+
+## User Interface
+
+  
+
+![Connect Four](https://github.com/akshaychandarkar/ConnectFour/blob/main/Connect4.png)
